@@ -1,5 +1,5 @@
 LOCAL_PATH := $(call my-dir)
-GAME_SRC_PATH := ../game
+GAME_SRC_PATH := ../../../../game
 
 include $(CLEAR_VARS)
 
